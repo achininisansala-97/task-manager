@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/hospital/index.php",
+		"/C/xampp/htdocs/hospital/hms/logout.php",
+		"/C/xampp/htdocs/hospital/hms/appointment-history.php",
+		"/C/xampp/htdocs/hospital/hms/assets/css/styles.css",
+		"/C/xampp/htdocs/hospital/hms/rooms/index.php",
+		"/C/xampp/htdocs/hospital/hms/include/checklogin.php",
+		"/C/xampp/htdocs/OmniHR/application/controllers/Payroll.php",
+		"/C/xampp/htdocs/hospital/hms/reset-password.php",
+		"/C/xampp/htdocs/hms/index.php",
+		"/C/xampp/htdocs/hms/adminlogin.php",
+		"/C/xampp/htdocs/hms/admin.php",
+		"/C/xampp/htdocs/hms/about.php",
+		"/C/xampp/htdocs/hms/adfooter.php",
+		"/C/xampp/htdocs/hms/adformfooter.php",
+		"/C/xampp/htdocs/hms/adminaccount.php",
+		"/C/xampp/htdocs/hms/patientaccount.php",
+		"/C/xampp/htdocs/hms/patientappointment.php",
+		"/C/xampp/htdocs/hms/viewappointment.php",
+		"/C/xampp/htdocs/hms/doctoraccount.php",
+		"/C/xampp/htdocs/hms/viewappointmentpending.php",
+		"/C/xampp/htdocs/hms/viewappointmentapproved.php",
+		"/C/xampp/htdocs/hms/viewroom.php",
+		"/C/xampp/htdocs/hms/prescriptionorder.php",
+		"/C/xampp/htdocs/hms/assets/plugins/ckeditor/plugins/devtools/lang/da.js",
+		"/C/xampp/htdocs/hms/css/animate.css",
+		"/C/xampp/htdocs/hms/room.php",
+		"/C/xampp/htdocs/hms/viewbilling.php",
+		"/C/xampp/htdocs/hms/orders.php",
+		"/C/xampp/htdocs/hms/patientreport.php",
+		"/C/xampp/htdocs/hms/billing.php",
+		"/C/xampp/htdocs/hospital/hms/admin/dashboard.php",
+		"/C/xampp/htdocs/hospital/hms/admin/add-doctor.php",
+		"/C/xampp/htdocs/hospital/hms/admin/manage-doctors.php",
+		"/C/xampp/htdocs/hospital/hms/admin/manage-users.php",
+		"/C/xampp/htdocs/hospital/hms/admin/appointment-history.php",
+		"/C/xampp/htdocs/hospital/hms/admin/add-rooms.php",
+		"/C/xampp/htdocs/hospital/hms/registration.php",
+		"/C/xampp/htdocs/hospital/hms/dashboard.php",
+		"/C/xampp/htdocs/hospital/hms/book-appointment.php",
+		"/C/xampp/htdocs/attic/admin/production/manage_production.php",
+		"/C/xampp/htdocs/hospital/hms/vendor/javascript-Load-Image/load-image.all.min.js",
+		"/C/xampp/htdocs/hospital/hms/user-login.php",
+		"/C/xampp/htdocs/hospital/hms/rooms/check_availability.php",
+		"/C/xampp/htdocs/hospital/hms/rooms/add-patient.php",
+		"/C/xampp/htdocs/hotelm/Restro/admin/add_category.php",
+		"/C/xampp/htdocs/hotelm/Restro/admin/make_oder.php",
+		"/C/xampp/htdocs/OmniHR/application/controllers/Leave.php",
+		"/C/xampp/htdocs/OmniHR/application/controllers/Attendance.php",
+		"/C/xampp/htdocs/OmniHR/application/controllers/Employee.php",
+		"/C/xampp/htdocs/OmniHR/application/controllers/Login.php",
+		"/C/xampp/htdocs/OmniHR/application/controllers/Dashboard.php",
+		"/C/xampp/htdocs/OmniHR/application/views/login.php",
+		"/C/xampp/htdocs/OmniHR/index.php",
+		"/C/xampp/htdocs/OmniHR/application/index.html",
+		"/C/Users/achin/Desktop/assigments/DigiSkills LMS_2.1.0_Apkpure.xapk",
+		"/C/xampp/htdocs/hospital/README.md",
+		"/C/xampp/htdocs/hospital/hms/view-medhistory.php",
+		"/C/xampp/htdocs/hospital/hms/admin/manage-patient.php",
+		"/C/xampp/htdocs/hospital/public/index.php",
+		"/C/Users/achin/Desktop/e_commerce/connection.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "build.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
